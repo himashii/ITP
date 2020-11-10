@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758050222394",
+    "firebase_url": "https://itpnew-f631c.firebaseio.com",
+    "project_id": "itpnew-f631c",
+    "storage_bucket": "itpnew-f631c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758050222394:android:dd7d2e985e9047e7d42003",
+        "android_client_info": {
+          "package_name": "com.example.itpnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758050222394-oifto4ia2shregke8rtj3ukgflt72b3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDH4efsScNtCicpyyAR9THC7EiOVaEZEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758050222394-oifto4ia2shregke8rtj3ukgflt72b3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

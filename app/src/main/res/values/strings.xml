@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ITPNew</string>
+
+    <string name="invalid_name">Please Enter a Name</string>
+    <string name="invalid">Please Enter a Phone Number</string>
+    <string name="invalid_phone_number">Please Enter a Valid Phone Number</string>
+    <string name="invalid_address_code">Please Enter a Valid Address</string>
+    <string name="invalid_city">Please Enter a City</string>
+    <string name="invalid_email">Please Enter a Valid Email</string>
+    <string name="invalid_phone">Please Enter a Valid Phone Number</string>
+
+    <string-array name="Spinner_items">
+        <item>Select Location Type</item>
+        <item>House</item>
+        <item>Apartment</item>
+        <item>Office</item>
+        <item>Hospital</item>
+        <item>School</item>
+        <item>Funeral Home</item>
+    </string-array>
+
+
+</resources>
